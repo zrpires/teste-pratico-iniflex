@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.desafio</groupId>
-    <artifactId>desafio-java</artifactId>
+    <artifactId>Desafio Prático</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
