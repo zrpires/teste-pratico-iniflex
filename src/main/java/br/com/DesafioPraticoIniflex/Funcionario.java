@@ -1,4 +1,4 @@
-package br.com.desafio;
+package br.com.DesafioPraticoIniflex;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
