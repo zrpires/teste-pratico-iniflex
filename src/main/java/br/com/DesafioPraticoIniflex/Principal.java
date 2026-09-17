@@ -81,7 +81,7 @@ public class Principal {
         } else {
             aniversariantesMes10.forEach(f -> System.out.println("  - " + f.getNome() + " (" + f.getDataNascimento().format(dateFormatter) + ")"));
         }
-
+        //Extra - Aqui implementei um a mais, por não ter aniversariantes no mês 12, considerei colocar uma validação caso fosse necessário futuramente.
         System.out.println("Mês 12 (Dezembro):");
         if (aniversariantesMes12.isEmpty()) {
             System.out.println("  Não existem aniversariantes atualmente no mês 12.");
